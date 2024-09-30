@@ -1,7 +1,8 @@
 # Basic Web Development
 
-- Academiejaar: 
-- Opleiding: 
-- Klasgroep: 
-- Naam: 
+- Academiejaar: 2024_2025
+- Opleiding: Toegepaste Informatica 
+- Klasgroep: /
+- Naam: Adam Boulakhrif
+
 
